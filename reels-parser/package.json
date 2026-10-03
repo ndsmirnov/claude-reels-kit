@@ -1,0 +1,9 @@
+{
+  "name": "reels-parser",
+  "version": "0.1.0",
+  "description": "MVP: парсинг рилсов аккаунта через Apify для банка критериев виральности",
+  "type": "module",
+  "scripts": {
+    "fetch": "node --env-file=.env fetch-account.js"
+  }
+}

@@ -1,0 +1,17 @@
+# личные медиа и служебные файлы — в репозиторий не попадают
+.DS_Store
+*.bak*
+__pycache__/
+*.pyc
+node_modules/
+.env
+skills/reels-montage/remotion/public/*
+!skills/reels-montage/remotion/public/.gitkeep
+skills/reels-montage/scripts/faces
+reels-parser/output/*
+!reels-parser/output/.gitkeep
+*.mp4
+*.mov
+*.MOV
+*.m4a
+*.wav
